@@ -15,6 +15,7 @@ The internship focused on building a **strong practical understanding**, startin
 ├── week 4/
 ├── week 5/
 └── README.md
+```
 
 
 Each folder represents a specific phase of the internship, with increasing complexity and depth.
