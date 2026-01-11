@@ -8,6 +8,8 @@ The internship focused on building a **strong practical understanding**, startin
 ---
 
 ## 📂 Repository Structure
+
+```text
 ├── week 2/
 ├── week 3/
 ├── week 4/
